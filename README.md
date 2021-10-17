@@ -1,24 +1,32 @@
 ### Hi there 👋. I'm [Katolus](https://twitter.com/Katolinho). 
 
-I love building tools that help me satisfy my curiosity 🌕 and experience new feelings 🌀. 
+I enjoy building tools to help me satisfy my **curiosity** 🌕 and experience 🌀. 
 
-I'm intereresd in Data and Machine Engineering, IoT devices and human behaviour.
+I'm interested in Data and Machine Engineering, IoT devices and human behaviour.
 
-My go-to stack involves: 
-- GCP as a platform of choice.
-- VSCode as the editor.
-- Ubuntu as the OS.
+Go-to stack involves: 
+- **Python** as the programming language of choice. 
+- **GCP** as a hosting platform of choice.
+- **VSCode** as the editor.
+- **Ubuntu** as the OS.
 
 I'm currently working on: 
- - [Home Assistant] setup for a local network.
- - 
+ - [Home Assistant](https://www.home-assistant.io/) setup for a local network.
+ - A Python package called `functions-cli` that is built to interface with major FaaS offerings.
 
-I'm currently learning:
-- Computer Architecture.
-- Electrical Circuts.
+I'm currently researching:
+- Open Source projects and communities.
+- Computer Architecture, Internet Protocols and Encryption.
+- Electrical Circuits and Material Science.
 - Statistics.
 
-You can ask me questions about
+You can ask me questions about **_interesting things_**.
+
+I would love to collaborate on projects resolving around **health** or **physics**.
+
+You can reach me by writing me an **email** or [LinkedIn](https://www.linkedin.com/in/piotr-katolik/) message. 
+
+Have a good ... no have a **great** day. 
 
 <!--
 **Katolus/Katolus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
