@@ -12,7 +12,7 @@ Go-to stack involves:
 
 I'm currently 👷‍♂️ working on: 
  - [Home Assistant](https://www.home-assistant.io/) setup for a local network.
- - A Python package called `functions-cli` that is built to interface with major FaaS offerings.
+ - A Python package called [`functions`](https://github.com/Katolus/functions) that is built to interface with major FaaS offerings.
 
 I'm currently 😑 researching:
 - Open Source projects and communities.
@@ -20,7 +20,7 @@ I'm currently 😑 researching:
 - Electrical Circuits and Material Science.
 - Statistics.
 
-You can 💬 ask me questions about **_interesting things_**.
+You can 💬 ask me questions.
 
 I would love to collaborate on projects resolving around **health** or **physics**.
 
