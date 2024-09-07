@@ -1,34 +1,40 @@
-### Hi there 👋. I'm [Katolus](https://twitter.com/Katolinho). 
+### Hi there 👋. 
 
 I enjoy building tools to help me satisfy my **curiosity** 🌕 and experience 🌀. 
 
 I'm interested in Data and Machine Engineering, IoT devices and human behaviour.
 
+Down to earth, easy to approach, knowledgable neighbourhood engineer - never loosing touch with the the tools. Smile and will smile back. 
+
 Go-to stack involves: 
 - **Python** as the programming language of choice. 
-- **GCP** as a hosting platform of choice.
-- **VSCode** as the editor.
-- **Ubuntu** as the OS.
+- Any cloud platform provider at this point, given that it is all about the same thing. Lately spending a lot of time in AWS land.
+- **VSCode** as the editor - for about 6 years now. Slowly opening up to other options.
+- These days, as platform engineer I get to work any of the main OS families (MacOS - for organisation approved OS, Windows - for gaming and personal 
 
-I'm currently 👷‍♂️ working on: 
- - [Home Assistant](https://www.home-assistant.io/) setup for a local network.
- - A Python package called [`functions`](https://github.com/Katolus/functions) that is built to interface with major FaaS offerings.
+I'm currently 👷‍♂️ working on:
+- On a homelab solution for experimentation for my local network.
+- 
 
-I'm currently 😑 researching:
-- Open Source projects and communities.
-- Computer Architecture, Internet Protocols and Encryption.
-- Electrical Circuits and Material Science.
-- Statistics.
+I would be happy to collaborate on:
+- 
 
-You can 💬 ask me questions.
+Here is how am I get my source of inupt:
+- TLDR - For biggest world tech news.
+- ACS newsletter - For Australia's tech news.
 
-I would love to collaborate on projects resolving around **health** or **physics**.
+Social:
+- Daily.dev
+- Dev.to
+- Reddit
+- Diagrams: 
+
+You can reach me on Check out Piotr Katolik's profile on daily.dev
+https://dly.to/opKHjQl1K2j. 
 
 You can reach me by writing me an 📫 **email** or [LinkedIn](https://www.linkedin.com/in/piotr-katolik/) message. 
 
-You can also visit my [website](https://katol.dev) for more information about projects, skills and not updated 👨‍💻 portfolio websites. 
-
-Have a good ... no have a **great** day 💙. 
+<!-- You can also visit my [website](https://katol.dev) for more information about projects, skills and not updated 👨‍💻 portfolio websites. --> 
 
 <!--
 **Katolus/Katolus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
